@@ -1,0 +1,13 @@
+# Entorno y artefactos locales
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Base vectorial: se regenera con `python ingest.py`
+chroma_db/
+
+# Secretos y basura del sistema
+.streamlit/secrets.toml
+.DS_Store

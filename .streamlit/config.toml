@@ -1,0 +1,15 @@
+# Tema por defecto. Streamlit lee esta carpeta desde el directorio de trabajo,
+# por eso se arranca con run.sh (que hace cd a esta carpeta).
+[theme]
+base = "dark"
+primaryColor = "#8b5cf6"
+backgroundColor = "#0e1016"
+secondaryBackgroundColor = "#171a24"
+textColor = "#e7e9f0"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,6 @@
+# Versiones con las que se ha probado la app (Python 3.12).
+chromadb==1.5.9
+onnxruntime==1.27.0
+numpy==2.4.6
+langchain-text-splitters==1.1.2
+streamlit==1.57.0
